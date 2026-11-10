@@ -1,0 +1,6 @@
+{
+  "name": "HealthTech",
+  "description": "Health-Tech platform connecting verified pharmacies, doctors, and hospitals with prescription tracking, medical content, emergency availability, and professional licensing verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
